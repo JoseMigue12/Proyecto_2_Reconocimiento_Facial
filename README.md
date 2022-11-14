@@ -36,9 +36,16 @@ Para nuestra Red Neuronal se ocupa una función de costo crossentropy y el optim
 
 ## Captura de Pantalla del Entrenamiento.
 
+![run1](https://user-images.githubusercontent.com/112664513/201582249-e0cfa3fc-251a-4075-91e0-ca7f14272fc1.PNG)
+
+![run3](https://user-images.githubusercontent.com/112664513/201582861-d4f4ce30-1175-4010-896b-7412c44c65e3.PNG)
+
 ## Conclusiones.
 
 A partir de la experiencia del proyecto, me parece muy interesante saber que las redes neuronales son una de las herramientas importantes y muy utilizadas por el hombre para diversas cosas como en el caso del reconocimiento facial. El proyecto tuvo muy buenos resultados ya que en la época 19 tuvimos una precisión de 0.9976 y un valor de la función de costo de 0.0069, en las gráficas siguientes podemos ver como se comportaron estos por el paso de las épocas tanto en los datos de entrenamiento y prueba.
 
+![loss](https://user-images.githubusercontent.com/112664513/201582941-5164ddda-8ba6-4062-8e9e-f9b9de1406d6.PNG)
+
+![accurancy](https://user-images.githubusercontent.com/112664513/201582991-b19be281-38a7-44fb-a36b-cae7067c2075.PNG)
 
 Gracias a las graficas podemos ver que nuestra red neuronal fue buena y no hay presencia de sobreajuste.
